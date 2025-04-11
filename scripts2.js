@@ -158,6 +158,8 @@ function printProjectsCmd(){
 platform that lets people find and
 book unique places to stay while
 travelling Using "MERN Stack"</li>
+    <li>CryptoFee - DApp for online fee Payment</li>
+    <li>MusicApp using java swing and MySQL</li>
     </ul></p>`;
     output.insertAdjacentHTML('beforeend',html);
 }
